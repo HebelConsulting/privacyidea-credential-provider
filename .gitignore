@@ -16,6 +16,7 @@ CppClientCore/nlohmann/json.hpp
 *.wixpdb
 *.msm
 *.aps
-Shared/Release/
-CppClientCore/CppClientCore/Win32/
-Release/
+Release
+Debug
+bin
+obj

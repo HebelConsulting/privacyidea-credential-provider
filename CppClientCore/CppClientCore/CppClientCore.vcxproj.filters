@@ -33,6 +33,9 @@
     <ClCompile Include="PrivacyIDEA.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="RegistryReader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Challenge.h">
@@ -56,7 +59,13 @@
     <ClInclude Include="PrivacyIDEA.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\nlohmann\json.hpp">
+    <ClInclude Include="Codes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RegistryReader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SecureString.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
